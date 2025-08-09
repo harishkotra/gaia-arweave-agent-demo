@@ -1,9 +1,14 @@
-# Gaia x Arweave Agent Demo
+<img width="1022" height="1070" alt="image" src="https://github.com/user-attachments/assets/92e76d36-10df-4d13-8410-2a8085d2d961" /># Gaia x Arweave Agent Demo
 
 This project demonstrates how to build AI agents that can interact with the Arweave blockchain using the `arweave-storage-sdk` and a custom Gaia node. It provides two main interfaces:
 
 1.  **`index.html`**: A standard chat interface for interacting with a Gaia node, with the ability to upload the conversation history to Arweave.
 2.  **`agent-demo.html`**: An advanced interface where an AI agent (powered by your Gaia node) uses natural language to perform actions on Arweave, such as storing chats, configurations, checking statuses, and listing uploads.
+
+<img width="1246" height="3299" alt="screencapture-localhost-3000-2025-08-09-18_13_43" src="https://github.com/user-attachments/assets/4619efb2-0138-4422-a925-4922dd445ad0" />
+
+<img width="948" height="1025" alt="image" src="https://github.com/user-attachments/assets/05f47348-c0c9-47f8-9c17-1d75080e63ad" />
+
 
 ## Features
 
